@@ -1,0 +1,7 @@
+ipykernel
+transformers
+pillow
+torch
+ipywidgets
+datasets
+evaluate
