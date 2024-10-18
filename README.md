@@ -6,8 +6,12 @@ This project focuses on detecting rice diseases using machine vision techniques 
 
 ## Environment Setup
 
-To set up the environment, activate the virtual environment:
+To set up the environment:
+```bash
+python3 -m venv .venv
+```
 
+activate the virtual environment:
 ```bash
 source venv/bin/activate
 ```

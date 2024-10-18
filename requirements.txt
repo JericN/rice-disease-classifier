@@ -5,3 +5,5 @@ torch
 ipywidgets
 datasets
 evaluate
+scikit-learn
+tensorboard
