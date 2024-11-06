@@ -8,8 +8,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Results
-vit-base-oxford-iiit-pets/
 
-# ignore any folder containing vit
-vit*/
+# results
+training_output/
