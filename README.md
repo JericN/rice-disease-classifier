@@ -13,7 +13,7 @@ python3 -m venv .venv
 
 activate the virtual environment:
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 ```bash
 .venv\Scripts\activate
