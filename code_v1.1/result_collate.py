@@ -35,6 +35,6 @@ def collect_results(json_folder, output_file):
     print(f"Results saved to {output_file}")
 
 
-json_folder = "./results/full fine-tune"
-output_file = "./results/full fine-tune.xlsx"
+json_folder = "./results/full fine-tune 02"
+output_file = "./results/full fine-tune 02.xlsx"
 collect_results(json_folder, output_file)
