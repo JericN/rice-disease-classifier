@@ -1,4 +1,4 @@
-# Rice Leaf Disease Classification using Transformer and CNN Models
+# Transformers for Rice Leaf Disease Classification 
 
 This repository contains the codebase used for fine-tuning, evaluating, and analyzing deep learning models applied to rice leaf disease classification. The project is part of the research paper:
 
