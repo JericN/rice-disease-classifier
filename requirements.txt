@@ -1,9 +1,0 @@
-ipykernel
-transformers
-pillow
-torch
-ipywidgets
-datasets
-evaluate
-scikit-learn
-tensorboard

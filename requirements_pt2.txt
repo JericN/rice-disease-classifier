@@ -1,4 +1,0 @@
-tifffile
-matplotlib
-rasterio
-datasets

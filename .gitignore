@@ -13,6 +13,4 @@ dataset/
 
 
 # results
-training_output/
-testing_output/
-results/
+output/
