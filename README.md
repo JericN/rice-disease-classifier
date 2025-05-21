@@ -7,10 +7,11 @@ This repository contains the codebase used for fine-tuning, evaluating, and anal
 
 ## Project Overview
 
-Rice leaf diseases threaten food security and farmer livelihoods, particularly in the Philippines. This project explores the use of modern machine vision techniques with transformer-based and convolutional neural network (CNN) architectures to automatically classify rice leaf diseases from images.
+Rice leaf diseases pose a serious threat to food security and farmer livelihoods, especially in the Philippines. This project investigates the application of modern machine vision techniques—specifically transformer-based and convolutional neural network (CNN) architectures—for automated classification of rice leaf diseases from field-captured images.
 
-The research evaluates a spectrum of models ranging from high-capacity architectures (e.g., ViT Hybrid, ConvNeXt, Swin) to lightweight networks optimized for resource-constrained deployment (e.g., MobileViT, EfficientViT, EfficientFormer). The goal is to balance classification accuracy with computational efficiency, suitable for real-time agricultural applications on edge devices.
+The study evaluates a diverse range of models, from high-capacity architectures to lightweight networks optimized for deployment in resource-constrained environments. The objective is to strike a balance between classification accuracy and computational efficiency, enabling real-time disease detection on mobile or UAV platforms.
 
+In addition to performance benchmarking, the project analyzes common misclassification patterns, offering insights into model limitations and suggesting strategies for improving classification performance across disease types.
 
 ## Dataset
 
