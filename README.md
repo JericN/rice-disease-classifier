@@ -39,3 +39,9 @@ Standard data augmentations such as flips, rotations, color jittering, and Gauss
 - **ViT Hybrid** achieved the highest accuracy but required substantial computational resources.  
 - **Lightweight models** like **EfficientViT** offered competitive accuracy while significantly reducing latency and memory usage — making them suitable for deployment on mobile or drone platforms.  
 - **Misclassifications** primarily occurred among visually similar diseases, emphasizing the importance of enhanced datasets and more detailed annotations.  
+
+## 📁 **Complete Documents**
+
+You can find the complete set of documents related to this project—including the thesis manuscript, conference paper (PCSC 2025), presentation slides, and LaTeX source files—on the following Google Drive:
+
+🔗 [Access Complete Documents](https://drive.google.com/drive/u/1/folders/1yzDxLo4tKuyMYOtKxstRIeZHlOfNHV-C)
